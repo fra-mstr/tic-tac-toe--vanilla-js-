@@ -90,3 +90,7 @@ button:hover {
 .bd-left {
   border-left: 4px solid black;
 }
+
+.red-text {
+  color: red;
+}
